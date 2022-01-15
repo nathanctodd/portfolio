@@ -1,0 +1,79 @@
+.page {
+
+    border-radius: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-family: "Helvetica", "Arial", sans-serif;
+
+}
+
+h1 {
+
+    text-align: center;
+    background-color: gray;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+h2 {
+
+    display: block;
+    background-color: #2f2f2f;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #2f2f2f;
+    border-radius: 30px;
+    
+
+    width: 200px;
+    margin: 10px;
+
+}
+
+p {
+    
+    font-family: "Helvetica", "Arial", sans-serif;
+
+}
+
+ul {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.linkbutton {
+    display: block;
+    text-decoration: none;
+
+    color: #FFFFFF;
+    background-color: #5995da;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 3px solid #5D6063;
+    border-radius: 20px;
+
+    width: 80px;
+    margin: 15px;
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-bottom: 40px;
+
+}
+
+.linkbutton:hover {
+
+    color: #010101;
+
+}
+
+.about {
+    width: 300px;
+    display: block;
+    padding: 15px;
+    
+}
